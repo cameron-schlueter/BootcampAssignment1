@@ -1,0 +1,41 @@
+body {
+  min-height: 300vh;
+  border-radius: 10px;
+}
+
+.options {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 0px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: 0px;
+}   
+.meeting {
+    width: 100%;
+    background-color: dodgerblue;
+  }
+
+.Rep {
+    float: right;
+    background-color: dodgerblue;
+    padding: 20px 20px;
+}
+
+.Search {
+  background-color: dodgerblue;
+  float: left;
+  padding: 20px 20px;
+}
+
+.box1 {
+  background-color: #567895;
+}
+
+.social {
+    background-color: dodgerblue;
+    float: left;
+   padding-right: 600px;
+
+}
